@@ -2,7 +2,7 @@
 Pygame Project
 # Shooting Game -
 A simple shooting game, made from python using pygame module. This is my first pygame project made. Any suggestions are welcomed.
-![game](https://github.com/Rac-Software-Development/Shootergame/assets/143837355/241dc14d-f731-4289-8b1a-62e847f2ea6f)
+![game](https://github.com/Alkatlabe91/Shootergame/Schootinggame-py/143837355/241dc14d-f731-4289-8b1a-62e847f2ea6f)
 ## How to start the Game?
 > python -u main.py
 Download all the files and run the `main.py` file then the game should be starting. Make sure that pygame module is installed in system.
